@@ -1,11 +1,11 @@
 ### Hi there 👋
 Welcome to my Github!
-
+-----------------------------------------------------------------------
 🌱 I’m currently learning Data Science / Machine Learning / Philosophy
-
 -----------------------------------------------------------------------
 
 📫 How to reach me: 
+-----------------------------------------------------------------------
 Linkedin: https://www.linkedin.com/in/jos%C3%A9-alberto-gonz%C3%A1lez-arteaga-1117b7153/
 Email: jgacontact@gmail.com
 Instagram: Pepegzza
