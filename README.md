@@ -1,5 +1,8 @@
 ### Hi there 👋
+Welcome to my Github!
 
+🌱 I’m currently learning Data Science / Machine Learning / Philosophy
+📫 How to reach me: ...
 <!--
 **josegzza/josegzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
