@@ -6,7 +6,7 @@ Welcome to my Github!
 
 📫 How to reach me: 
 -----------------------------------------------------------------------
-Linkedin: https://www.linkedin.com/in/jos%C3%A9-alberto-gonz%C3%A1lez-arteaga-1117b7153/
+Linkedin: https://linktr.ee/josegzza
 Email: jgacontact@gmail.com
 Instagram: Pepegzza
 Twitter: Josegzza
