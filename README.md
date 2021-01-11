@@ -6,6 +6,7 @@ Welcome to my Github!
 
 📫 How to reach me: 
 -----------------------------------------------------------------------
+Portfolio: https://josegzza.github.io/
 Linkedin: https://linktr.ee/josegzza
 Email: jgacontact@gmail.com
 Instagram: Pepegzza
