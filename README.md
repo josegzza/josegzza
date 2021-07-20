@@ -26,7 +26,7 @@ Welcome to my Github!
 -----------------------------------------------------------------------
 📫 How to reach me: 
 -----------------------------------------------------------------------
-* Portfolio: https://josegzza.github.io/
+* Portfolio: https://josegzza-portfolio.herokuapp.com/
 * Linkedin: https://www.linkedin.com/in/pepegzza/
 * Email: jgacontact@gmail.com
 * Instagram: Pepegzza
