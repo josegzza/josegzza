@@ -12,7 +12,7 @@ Welcome to my Github!
 <img src="https://cdn0.iconfinder.com/data/icons/HTML5/128/HTML_Logo.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-<img src="http://www.grupotitan.com/wp-content/uploads/2015/05/mysql-respaldo-767x767.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+<img src="[http://www.grupotitan.com/wp-content/uploads/2015/05/mysql-respaldo-767x767.png](https://www.vhv.rs/dpng/d/543-5438423_mysql-logo-hd-png-download.png)" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170943.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 
   
