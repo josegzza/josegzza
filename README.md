@@ -24,27 +24,7 @@
 
   ---
 
-  ### What I've Built
-
-  | At | What | Scale |
-  |---|---|---|
-  | **Chubb** | Claims fraud detection pipeline — medallion architecture (280+ raw → 75 silver → gold) | 10M claims, 180M
-  records/day |
-  | **ZF Group** | Automated reporting for BMW & Ford — reengineered ETL architecture | 3,750 plants, 100+ KPIs |
-  | **Johnson Controls** | Multi-ERP data sync pipeline across global supply chain | 13 ERPs, 52 plants |
-
-  ---
-
-  ### GitHub Stats
-
-  ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=josegzza&show_icons=true&theme=github_dark&hide_b
-  order=true&hide_title=true)
-
-  ---
-
   ### Connect
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-pepegzza-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.li
-  nkedin.com/in/pepegzza/](https://www.linkedin.com/in/pepegzza/))
-  [![Email](https://img.shields.io/badge/Email-jgacontact@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jgac
-  ontact@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-pepegzza-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pepegzza/](https://www.linkedin.com/in/pepegzza/))
+  [![Email](https://img.shields.io/badge/Email-jgacontact@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jgacontact@gmail.com)
