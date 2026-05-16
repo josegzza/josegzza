@@ -1,34 +1,33 @@
-### Hi there 👋
-Welcome to my Github!
------------------------------------------------------------------------
-🌱 I’m currently learning Data Science / Machine Learning / Philosophy
------------------------------------------------------------------------
-:robot: Languages, frameworks and Databases
------------------------------------------------------------------------
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://www.datacenterplanet.com/wp-content/uploads/2018/11/awslogo.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn0.iconfinder.com/data/icons/HTML5/128/HTML_Logo.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-<img src="[http://www.grupotitan.com/wp-content/uploads/2015/05/mysql-respaldo-767x767.png](https://www.vhv.rs/dpng/d/543-5438423_mysql-logo-hd-png-download.png)" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170943.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
+### Hey, I'm Jose 👋
 
-  
-</p>
+  Data Engineer based in Monterrey, Mexico. I build scalable data pipelines processing 180M+ records daily across global
+  enterprise environments.
 
-:bar_chart: Github stats
------------------------------------------------------------------------
+  Currently at **Chubb**, working on fraud detection systems using medallion architecture with Spark, Databricks, and Python.
+  Previously built data platforms at **ZF Group**, **Johnson Controls**, and **CEMEX**.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josegzza&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josegzza&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
------------------------------------------------------------------------
-📫 How to reach me: 
------------------------------------------------------------------------
-* Portfolio: https://josegzza-portfolio.herokuapp.com/
-* Linkedin: https://www.linkedin.com/in/pepegzza/
-* Email: jgacontact@gmail.com
-* Instagram: Pepegzza
-* Twitter: Josegzza
+  ---
 
+  #### 🔧 What I Work With
+
+  **Data Engineering** · Apache Spark · Databricks · Delta Lake · Airflow · ETL/ELT · Data Modeling
+  **Languages** · Python · SQL · T-SQL
+  **Cloud** · AWS (S3, EC2, Lambda, Glue) · Azure (Data Factory, Synapse, Data Lake)
+  **Tools** · Git · Docker · Linux · CI/CD · Power BI · Qlik
+
+  ---
+
+  #### 📊 GitHub Stats
+
+  ![Jose's GitHub
+  stats](https://github-readme-stats.vercel.app/api?username=josegzza&show_icons=true&theme=github_dark&hide_border=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josegzza&layout=compact&theme=github_dark&hide_
+  border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  ---
+
+  #### 📫 Let's Connect
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-pepegzza-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pepe
+  gzza/)
+  [![Email](https://img.shields.io/badge/Email-jgacontact@gmail.com-red?style=flat&logo=gmail)](mailto:jgacontact@gmail.com)
